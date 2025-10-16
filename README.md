@@ -1,4 +1,4 @@
-a# Cadence
+# Cadence
 
 An autonomous AI-powered content creation pipeline that researches, writes, reviews, and publishes marketing articles for Blockonomics.
 
